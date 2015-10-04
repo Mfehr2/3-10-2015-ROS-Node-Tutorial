@@ -1,0 +1,6 @@
+/home/chris/cprt/ROS Node Tutorial/build/CMakeFiles/clean_test_results.dir
+/home/chris/cprt/ROS Node Tutorial/build/CMakeFiles/doxygen.dir
+/home/chris/cprt/ROS Node Tutorial/build/gtest/CMakeFiles/gtest.dir
+/home/chris/cprt/ROS Node Tutorial/build/gtest/CMakeFiles/gtest_main.dir
+/home/chris/cprt/ROS Node Tutorial/build/CMakeFiles/run_tests.dir
+/home/chris/cprt/ROS Node Tutorial/build/CMakeFiles/tests.dir
